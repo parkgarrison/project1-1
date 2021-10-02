@@ -44,7 +44,7 @@ nav ul li a{
 }
 
 a.active, a:hover{
-    background: #f1406c;
+    background: #851d1d;
 }
 
 .checkbtn{
@@ -83,7 +83,7 @@ a.active, a:hover{
     }
     a:hover,a.active{
         background: none;
-        color: #f1406c;
+        color: #851d1d;
     }
     #check:checked ~ ul{
         left: 0px;
