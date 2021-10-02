@@ -7,7 +7,7 @@
 }
 body{
     font-family: montserrat;
-    background: url(Appalachian-Mountains.jpeg);
+    background: url(/Users/robbiezanetti/Documents/Appalachian-Mountains.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh -80px);
@@ -101,11 +101,4 @@ section{
     border: 3px solid #851d1d;
     padding: 100px;
     background-color: rgb(255, 255, 255, 0.3);
-}
-.infoBox2{
-    margin: auto;
-    width: 80%;
-    border: 3px solid #851d1d;
-    padding: 20px;
-    background-color: rgb(255, 255, 255);
 }
