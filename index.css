@@ -44,7 +44,7 @@ nav ul li a{
 }
 
 a.active, a:hover{
-    background: #40a5f1;
+    background: #f1406c;
 }
 
 .checkbtn{
@@ -83,7 +83,7 @@ a.active, a:hover{
     }
     a:hover,a.active{
         background: none;
-        color: #0082e6;
+        color: #f1406c;
     }
     #check:checked ~ ul{
         left: 0px;
@@ -98,14 +98,14 @@ section{
 .infoBox{
     margin: auto;
     width: 90%;
-    border: 3px solid #000000;
+    border: 3px solid #851d1d;
     padding: 20px;
     background-color: rgb(255, 255, 255, 0.3);
 }
-.info{
+.infoBox2{
     margin: auto;
     width: 80%;
-    border: 3px solid #000000;
+    border: 3px solid #851d1d;
     padding: 20px;
     background-color: rgb(255, 255, 255);
 }
