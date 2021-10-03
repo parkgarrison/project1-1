@@ -103,10 +103,4 @@ section{
     background-color: rgb(255, 255, 255, 0.3);
 }
 
-.subinfobox{
-    margin: auto;
-    width: 80%;
-    border: 3px solid #000000;
-    padding: 20px;
-    background-color: rgb(100, 91, 91, .5);
-}
+
